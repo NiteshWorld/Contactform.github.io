@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+
+input[type=text],input[type=email],input[type=number]{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 5px 22px;
+    margin: 10px 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+label{
+    color: dimgrey;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+h1{
+    margin: 20px 20px;
+    text-align: center;
+    color: darkcyan;
+}
+textarea{
+    font-size: 15px;
+    font-weight: 600;
+    margin: 7px;
+
+}
+
+
+input[type=submit]{
+    font-size: 18px;
+    margin: 15px;
+    padding: 10px 60px;
+}
+
+
+
+
